@@ -1,0 +1,342 @@
+[
+  {
+    "id": 1,
+    "name": "Gandhi Jayanti: Peace & Simplicity",
+    "prompt_settings": {
+      "aspect_ratio": "1:1",
+      "theme": "Serene Simplicity and Truth",
+      "border_design": "Subtle, hand-drawn lines resembling a khadi weave texture",
+      "border_thickness": "2px",
+      "background_style": "Solid color with a very faint, almost invisible, charkha pattern",
+      "background_colors": "Off-white or light beige, reflecting purity",
+      "logo_placement": "Top-center",
+      "main_image_placement": "center",
+      "image_size": "60% of width",
+      "text_section": {
+        "headline": "Embrace Simplicity, Live in Peace",
+        "font_style": "Clean Serif, classic",
+        "font_color": "Soft Charcoal Grey",
+        "position": "Top 25%, centered",
+        "subtext": "This Gandhi Jayanti, discover furniture that embodies peace, sustainability, and timeless design."
+      },
+      "offer_tag": {
+        "text": "Simplicity Collection Offers",
+        "position": "top-right",
+        "style": "Round badge with a dove icon"
+      },
+      "call_to_action": {
+        "text": "Discover Peaceful Living",
+        "style": "Pill-shaped button, muted green with white text",
+        "location": "bottom center"
+      },
+      "optional": "Small, subtle sketch of Gandhi's spectacles or a charkha in a corner.",
+      "mood": "Peaceful, simple, reflective, respectful"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Mahatma's Principles: Sustainable Living",
+    "prompt_settings": {
+      "aspect_ratio": "4:5",
+      "theme": "Eco-Conscious and Ethical Design",
+      "border_design": "Organic, leafy patterns, hand-drawn look",
+      "border_thickness": "2px",
+      "background_style": "Natural linen texture",
+      "background_colors": "Earthy tones like olive green, terracotta, and off-white",
+      "logo_placement": "Top-left",
+      "main_image_placement": "center, slightly off-center",
+      "image_size": "65% of width",
+      "text_section": {
+        "headline": "Live Sustainably, Inspire Change",
+        "font_style": "Modern Sans-serif, light",
+        "font_color": "Dark Brown",
+        "position": "Top 20%, left-aligned",
+        "subtext": "In the spirit of Gandhi Jayanti, choose furniture that respects the planet and empowers communities."
+      },
+      "offer_tag": {
+        "text": "Sustainable Collection Sale!",
+        "position": "bottom-right",
+        "style": "Recycle symbol badge with a khadi texture fill"
+      },
+      "call_to_action": {
+        "text": "Explore Eco-Friendly Furniture",
+        "style": "Rounded button, terracotta with white text",
+        "location": "bottom center"
+      },
+      "optional": "Subtle thread-like patterns, small leaf icons, or earthy elements.",
+      "mood": "Responsible, natural, ethical, mindful"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Truth & Non-Violence: Home Comfort",
+    "prompt_settings": {
+      "aspect_ratio": "1:1",
+      "theme": "Inner Peace and Harmony",
+      "border_design": "Gentle, flowing lines, suggesting calm and movement",
+      "border_thickness": "1px",
+      "background_style": "Soft, diffused light with subtle textures",
+      "background_colors": "Muted blues and soft grays, creating a tranquil atmosphere",
+      "logo_placement": "Top-right",
+      "main_image_placement": "center",
+      "image_size": "70% of width",
+      "text_section": {
+        "headline": "Crafting Homes with Truth & Tranquility",
+        "font_style": "Elegant Script, fluid",
+        "font_color": "Navy Blue",
+        "position": "Upper middle, centered",
+        "subtext": "Find peace in every corner this Gandhi Jayanti with our harmoniously designed furniture."
+      },
+      "offer_tag": {
+        "text": "Harmony & Comfort Deals",
+        "position": "top-left",
+        "style": "Lotus flower badge"
+      },
+      "call_to_action": {
+        "text": "Find Your Inner Calm",
+        "style": "Circular button, light blue with navy text",
+        "location": "bottom center"
+      },
+      "optional": "Faint, almost transparent, peace symbol in the background, soft shadow effects.",
+      "mood": "Calm, serene, harmonious, peaceful"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Gandhi's Vision: Self-Reliance in Style",
+    "prompt_settings": {
+      "aspect_ratio": "16:9 landscape",
+      "theme": "Empowerment Through Design",
+      "border_design": "Bold, clean lines, representing strength and independence",
+      "border_thickness": "3px",
+      "background_style": "Geometric patterns with a subtle gradient",
+      "background_colors": "Deep ochre, earthy brown, and a touch of off-white",
+      "logo_placement": "Top-left",
+      "main_image_placement": "right side, strong and prominent",
+      "image_size": "55% width",
+      "text_section": {
+        "headline": "Building Self-Reliant Spaces",
+        "font_style": "Condensed Sans-serif, strong",
+        "font_color": "White or Dark Brown",
+        "position": "Left side, centered vertically",
+        "subtext": "Inspired by Gandhi's vision, our furniture promotes thoughtful living and lasting quality."
+      },
+      "offer_tag": {
+        "text": "Atmanirbhar Offers!",
+        "position": "bottom-left",
+        "style": "Gear or cogwheel icon badge"
+      },
+      "call_to_action": {
+        "text": "Explore Our Craft",
+        "style": "Rectangular button, ochre with white text",
+        "location": "bottom-right"
+      },
+      "optional": "Subtle architectural elements, a faint blueprint-like overlay.",
+      "mood": "Strong, independent, thoughtful, inspiring"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Celebrating Bapu's Birthday",
+    "prompt_settings": {
+      "aspect_ratio": "1:1",
+      "theme": "Reverent & Commemorative",
+      "border_design": "Classic decorative border with subtle floral elements",
+      "border_thickness": "3px",
+      "background_style": "Soft, blurred background with light rays",
+      "background_colors": "Warm creams and gentle pastels, creating a solemn yet hopeful feel",
+      "logo_placement": "Bottom-center",
+      "main_image_placement": "center, slightly elevated",
+      "image_size": "60% of width",
+      "text_section": {
+        "headline": "Remembering Bapu: A Legacy of Comfort",
+        "font_style": "Formal Script, dignified",
+        "font_color": "Sepia Brown",
+        "position": "Top 20%, centered",
+        "subtext": "On Gandhi Jayanti, honor his memory with furniture that embodies enduring values."
+      },
+      "offer_tag": {
+        "text": "Homage Collection Discounts",
+        "position": "top-right",
+        "style": "Laurel wreath badge"
+      },
+      "call_to_action": {
+        "text": "Shop Enduring Styles",
+        "style": "Rounded button, deep green with cream text",
+        "location": "bottom center"
+      },
+      "optional": "Faint image of Gandhi's silhouette, a soft, respectful glow.",
+      "mood": "Reverent, commemorative, classic, respectful"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Peaceful Homes, Peaceful World",
+    "prompt_settings": {
+      "aspect_ratio": "4:5",
+      "theme": "Global Harmony & Tranquility",
+      "border_design": "Interconnected lines or subtle map outlines",
+      "border_thickness": "1px",
+      "background_style": "Abstract watercolor background",
+      "background_colors": "Soft blues and greens, blending seamlessly",
+      "logo_placement": "Top-left",
+      "main_image_placement": "center, with a calming aura",
+      "image_size": "65% of width",
+      "text_section": {
+        "headline": "Building Peace, One Home At A Time",
+        "font_style": "Clean, modern sans-serif",
+        "font_color": "Deep Blue",
+        "position": "Top 20%, centered",
+        "subtext": "This Gandhi Jayanti, invest in furniture that fosters serenity and contributes to a peaceful world."
+      },
+      "offer_tag": {
+        "text": "Global Harmony Collection",
+        "position": "bottom-right",
+        "style": "World map icon badge"
+      },
+      "call_to_action": {
+        "text": "Explore Serene Spaces",
+        "style": "Pill-shaped button, light blue with dark blue text",
+        "location": "bottom center"
+      },
+      "optional": "Subtle 'Om' symbol or universal peace symbol faded in background, soft light emanates from product.",
+      "mood": "Global, harmonious, tranquil, compassionate"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Khadi Inspired Comfort",
+    "prompt_settings": {
+      "aspect_ratio": "1:1",
+      "theme": "Rustic Charm with National Spirit",
+      "border_design": "Rough, textured border mimicking hand-spun fabric",
+      "border_thickness": "4px",
+      "background_style": "Distressed paper texture or coarse fabric background",
+      "background_colors": "Natural undyed cotton colors, with subtle saffron and green threads",
+      "logo_placement": "Top-right",
+      "main_image_placement": "center, organic and inviting",
+      "image_size": "70% of width",
+      "text_section": {
+        "headline": "Handcrafted Comfort, Inspired by Khadi",
+        "font_style": "Rustic Serif, slightly bold",
+        "font_color": "Earthy Brown",
+        "position": "Top 25%, centered",
+        "subtext": "Celebrate Gandhi Jayanti with furniture that embodies the spirit of simplicity and artisanal craftsmanship."
+      },
+      "offer_tag": {
+        "text": "Artisanal Collection Sale!",
+        "position": "top-left",
+        "style": "Charkha (spinning wheel) icon badge"
+      },
+      "call_to_action": {
+        "text": "Discover Handcrafted Pieces",
+        "style": "Rectangular button, dark brown with cream text",
+        "location": "bottom center"
+      },
+      "optional": "Subtle texture of cotton fibers, hand-drawn elements around the product.",
+      "mood": "Rustic, authentic, simple, artisanal"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Mahatma's Message: Clean & Clear Spaces",
+    "prompt_settings": {
+      "aspect_ratio": "9:16 vertical",
+      "theme": "Minimalist & Organized Living",
+      "border_design": "Very thin, clean lines, almost invisible",
+      "border_thickness": "1px",
+      "background_style": "Pure white background, clean and uncluttered",
+      "background_colors": "Bright white with subtle light grey shadows",
+      "logo_placement": "Bottom-left",
+      "main_image_placement": "center, sharp and well-defined",
+      "image_size": "75% width",
+      "text_section": {
+        "headline": "A Clean Home, A Clear Mind",
+        "font_style": "Minimal Sans-serif, precise",
+        "font_color": "Black",
+        "position": "Top 15%, centered",
+        "subtext": "In the spirit of cleanliness and simplicity, create an organized and serene living space this Gandhi Jayanti."
+      },
+      "offer_tag": {
+        "text": "Minimalist Collection Discounts!",
+        "position": "top-right",
+        "style": "Clean square badge with a broom/clean icon"
+      },
+      "call_to_action": {
+        "text": "Organize Your Space",
+        "style": "Squared button, white with black text and thin border",
+        "location": "bottom center"
+      },
+      "optional": "Subtle grid lines, faint shadow below product for definition.",
+      "mood": "Clean, minimalist, organized, peaceful"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Beyond Borders: Gandhi's Global Impact",
+    "prompt_settings": {
+      "aspect_ratio": "16:9 landscape",
+      "theme": "International & Unifying Design",
+      "border_design": "Abstract flowing shapes, representing interconnectedness",
+      "border_thickness": "none",
+      "background_style": "Blurred image of diverse landscapes/cityscapes",
+      "background_colors": "Globally inspired palette (e.g., various skin tones, diverse natural colors) blending softly",
+      "logo_placement": "Top-right",
+      "main_image_placement": "left side, with open space on the right",
+      "image_size": "60% width",
+      "text_section": {
+        "headline": "Comfort That Connects, A Legacy That Inspires",
+        "font_style": "Fluid Sans-serif, open",
+        "font_color": "Deep Plum or Forest Green",
+        "position": "Right side, centered vertically",
+        "subtext": "Inspired by Gandhi's global message, our furniture brings comfort and unity to every home."
+      },
+      "offer_tag": {
+        "text": "Global Design Specials",
+        "position": "bottom-left",
+        "style": "World globe icon badge"
+      },
+      "call_to_action": {
+        "text": "Discover Global Comfort",
+        "style": "Rounded button, a blend of green and blue with white text",
+        "location": "bottom-right"
+      },
+      "optional": "Subtle outlines of continents, soft light filtering through.",
+      "mood": "Global, interconnected, inspiring, inclusive"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Homage to the Father of the Nation",
+    "prompt_settings": {
+      "aspect_ratio": "1:1",
+      "theme": "Solemn & Respected Tribute",
+      "border_design": "Clean, dignified border with a small national emblem",
+      "border_thickness": "2px",
+      "background_style": "Subtle texture, like old parchment or a monument wall",
+      "background_colors": "Muted grey, dark blue, and a touch of gold",
+      "logo_placement": "Top-left",
+      "main_image_placement": "center, stately",
+      "image_size": "60% of width",
+      "text_section": {
+        "headline": "A Tribute to Bapu: Furniture of Dignity",
+        "font_style": "Formal Serif, dignified",
+        "font_color": "Gold or White",
+        "position": "Top 20%, centered",
+        "subtext": "On Gandhi Jayanti, honor the Father of the Nation by choosing furniture that reflects dignity and purpose."
+      },
+      "offer_tag": {
+        "text": "Special Gandhi Jayanti Offers",
+        "position": "top-right",
+        "style": "Rectangular badge with '2 Oct' date"
+      },
+      "call_to_action": {
+        "text": "View Our Collection",
+        "style": "Classic button, dark blue with gold text",
+        "location": "bottom center"
+      },
+      "optional": "Faint silhouette of India Gate or a memorial, subtle patriotic flag in the background.",
+      "mood": "Dignified, solemn, respectful, commemorative"
+    }
+  }
+]
